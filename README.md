@@ -22,5 +22,8 @@ for division we use /
 ```
 
 ---
->**the good thing about javascript is that you have not to installed anything from oytide it is inbuilt in web browsers**
+>**the good thing about javascript is that you have not to installed anything from ouside it is inbuilt in web browsers**
 ---
+
+|[next](https://github.com/AcquireDevs/javascript-tutorial-2)|
+|---|
